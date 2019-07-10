@@ -230,9 +230,9 @@ gitment:
         client_secret: 31c61e66cdcc9ada8db2267ee779d0bdafac434c
 # https://github.com/gitalk/gitalk#install
 gitalk:
-    owner: ityouknow
+    owner: sbmqj
     repo: blog-comments
-    clientID: 61bfc53d957e74e78f8f
-    clientSecret: 31c61e66cdcc9ada8db2267ee779d0bdafac434c
+    clientID: 368b2bd5405525dae125
+    clientSecret: 3cd4cd550bd0e2ff3df712e96d461f2c67e28249
 # 在使用其它评论组件时可点击显示 Disqus
 lazy_load_disqus : true
